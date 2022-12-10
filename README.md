@@ -1,8 +1,8 @@
 # nlp-thesis-wise
 ## Code Repository for Honors Thesis Project
-###: Author: Michael Wise
-###: Advisor: Eitel Lauría
-###: Marist College, Fall 2022
+### Author: Michael Wise
+### Advisor: Eitel Lauría
+### Marist College, Fall 2022
 
 Note that this thesis is an extention of my [Honors By Contract project](https://github.com/michaelwise12/hbc-wise).
 
